@@ -1,0 +1,29 @@
+body{
+	background: #747880;
+}
+
+.card{
+	margin-right: 2rem;
+	margin-left: 2rem;
+	text-align: center;
+}
+
+.card-img-top{
+	height: 45vh;
+
+}
+
+.card-body{
+	height: 35vh;
+}
+
+button{
+	border-radius: 18px;
+	width:2rem;
+	margin: .33rem auto;
+	background: #000000;
+	color:#FFFFFF;
+	border-style: none;
+
+
+}
